@@ -1,0 +1,71 @@
+ body,h1,h5 {
+  /* font-family: "quicksand", sans-serif; */
+  font-family: quicksand, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+ body, html {
+  height: 100%
+}
+.bgimg {
+  background-color:#ffedd2 ;
+  /* background-image: url('logo2-03.png');  */
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.logo{
+  color:#a20000;
+}
+.welcome{
+  text-align: center;
+  color:#a20000;
+}
+
+button{
+  border-radius: 12px;
+}
+
+.w3-red, .w3-hover-red:hover {
+  color: #ffedd2!important;
+  background-color: #a20000!important;
+}
+.welcome{
+  margin: 0 auto; 
+}
+/* menue */
+a:hover {
+  color: #ff7477;
+}
+#menu {
+  color:#a20000;
+}
+
+.bar{
+  background-color: #a20000;
+  color:#a20000;
+}
+.fif {
+color:#ffedd2;
+}
+.box{
+  background-color: #ffedd2;
+}
+.ex{
+  background-color: #ffedd2;
+}
+/* about  */
+.wel{
+  color: #a20000;
+}
+/* contact */
+#contact{
+  color:#a20000;
+}
+form{
+  color:#a20000; 
+}
+
+.contactbox {
+  background: #ffedd2;
+}
