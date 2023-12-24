@@ -21,6 +21,9 @@
   text-align: center;
   color:#a20000;
 }
+img{
+  margin-left: 30px;
+}
 
 button{
   border-radius: 12px;
@@ -36,6 +39,7 @@ button{
 /* menue */
 a:hover {
   color: #ff7477;
+  text-decoration: none;
 }
 #menu {
   color:#a20000;
@@ -57,6 +61,7 @@ color:#ffedd2;
 /* about  */
 .wel{
   color: #a20000;
+  font-size: xlarge;
 }
 /* contact */
 #contact{
